@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?drummondsk=anuraghazra&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drummondsk&langs_count=3)](https://github.com/drummondsk/github-readme-stats)
 
 <!--
 **drummondsk/drummondsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
