@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=drummondsk&show_icons=true&theme=radical" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=drummondsk&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=drummondsk&layout=compact&langs_count=8&card_width=320" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=drummondsk&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 
