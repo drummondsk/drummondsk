@@ -1,3 +1,13 @@
+### Hi there 👋, my name is Kyle
+#### I am a senior at Berea College
+![I am a senior at Berea College](https://github.com/drummondsk/drummondsk/blob/main/github-header-image.png)
+
+I am a computer science major and a business administration minor at Berea College, where I have excelled academically and professionally, receiving multiple honors and awards for my academic performance and leadership skills. I am passionate about solving complex problems, creating a positive impact, and developing my career as a software developer.
+
+As an EMIT intern at ExxonMobil, I apply my skills and knowledge in software and web development, user experience research, technical support, and test automation to create innovative and efficient solutions for the energy industry. 
+
+I am also an MLT Career Prep Fellow, an IBM Accelerate Program Participant, and a Bloomberg Accelerator Summer School Participant, where I have gained valuable insights and exposure to the technical interview process, the engineering culture, and the latest trends and technologies in the industry. 
+
 <!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
