@@ -1,5 +1,3 @@
-### Hi there 👋, my name is Kyle
-#### I am a senior at Berea College
 ![I am a senior at Berea College](https://github.com/drummondsk/drummondsk/blob/main/github-header-image.png)
 
 I am a computer science major and a business administration minor at Berea College, where I have excelled academically and professionally, receiving multiple honors and awards for my academic performance and leadership skills. I am passionate about solving complex problems, creating a positive impact, and developing my career as a software developer.
