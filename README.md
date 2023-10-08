@@ -6,24 +6,9 @@ As an EMIT intern at ExxonMobil, I apply my skills and knowledge in software and
 
 I am also an MLT Career Prep Fellow, an IBM Accelerate Program Participant, and a Bloomberg Accelerator Summer School Participant, where I have gained valuable insights and exposure to the technical interview process, the engineering culture, and the latest trends and technologies in the industry. 
 
-<!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
-
-<!--
-**drummondsk/drummondsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ...Web Development Projects 
+- 🌱 I’m currently learning ... React.js, TypeScript
+- 👯 I’m looking to collaborate on ...Data Science and Web Development Projects
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
